@@ -389,6 +389,7 @@
                             <a class="text-white mb-2" href="#tentang"><i class="fa fa-angle-right mr-2"></i>Tentang</a>
                             <a class="text-white mb-2" href="#donor"><i class="fa fa-angle-right mr-2"></i>Permohononan</a>
                             <a class="text-white mb-2" href="#artikel"><i class="fa fa-angle-right mr-2"></i>artikel</a>
+                            <a class="text-white mb-2" href="daftar.php"><i class="fa fa-angle-right mr-2"></i>Daftar Jadi Relawan</a>
                         </div>
                     </div>
                 </div>
